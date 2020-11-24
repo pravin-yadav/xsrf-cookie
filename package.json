@@ -1,0 +1,28 @@
+{
+  "name": "xsrf-cookie",
+  "version": "1.0.0",
+  "description": "This is to read XSRF Token from cookies on client side javascript/ReactJs/AngularJs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "XSRF-TOKEN",
+    "CSRF-TOKEN",
+    "X-XSRF-TOKEN",
+    "X-CSRF-TOKEN",
+    "TOKEN",
+    "COOKIES",
+    "XSRF",
+    "CSRF",
+    "custom-cookie",
+    "ReactJs",
+    "AngularJs",
+    "Javascript"
+  ],
+  "repository": {
+    "url": "git://github.com/pravin-yadav/xsrf-cookie.git"
+  },
+  "author": "Pravin Yadav",
+  "license": "ISC"
+}

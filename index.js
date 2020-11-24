@@ -1,0 +1,1 @@
+export const getCookie=t=>{let e=t||"X-CSRF-TOKEN";const o=document.cookie.split(";").map(t=>t.trim()).filter(t=>t.startsWith(e+"="));return 0===o.length?null:decodeURIComponent(o[0].split("=")[1])};
