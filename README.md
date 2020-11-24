@@ -3,7 +3,7 @@
 
 ###### Using NPM 
 
-``` npm install --save xsrf-cookie ```
+``` npm install xsrf-cookie --save ```
 
 # Usage
 
