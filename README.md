@@ -2,6 +2,7 @@
 
 A function to read X-XSRF-TOKEN from the browser cookie. which can be passed as a payload/headers inside the body or in the request headers respectively.
 
+
 # Installation
 
 ###### Using NPM 
