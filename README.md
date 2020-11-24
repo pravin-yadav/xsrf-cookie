@@ -7,7 +7,7 @@
 
 # Usage
 
-``` import { getCookie } from 'xsrf-cookie'```
+``` import { getCookie } from 'xsrf-cookie';```
 
 ##### Get XSRF Token from browser cookies
 
