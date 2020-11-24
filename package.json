@@ -22,7 +22,7 @@
     "Javascript"
   ],
   "repository": {
-    "url": "git://github.com/pravin-yadav/xsrf-cookie.git"
+    "url": "https://github.com/pravin-yadav/xsrf-cookie.git"
   },
   "author": "Pravin Yadav",
   "license": "ISC"
