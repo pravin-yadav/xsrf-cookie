@@ -1,15 +1,15 @@
-# What is this?
+## What is this?
 
 A function to read X-XSRF-TOKEN from the browser cookie. which can be passed as a payload/headers inside the body or in the request headers respectively.
 
 
-# Installation
+## Installation
 
 ###### Using NPM 
 
 ``` npm install xsrf-cookie --save ```
 
-# Usage
+## Usage
 
 ``` import { getCookie } from 'xsrf-cookie';```
 
